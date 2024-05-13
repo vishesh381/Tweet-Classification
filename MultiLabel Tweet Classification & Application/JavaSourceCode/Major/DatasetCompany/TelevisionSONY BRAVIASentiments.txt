@@ -1,0 +1,3 @@
+ Positive: 424 
+ Negative: 14 
+ Neutral: 62
